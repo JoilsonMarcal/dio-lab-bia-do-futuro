@@ -5,34 +5,34 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+[Gestão ineficiente do orçamento pessoal, causada pela falta de monitoramento e análise financeira.]
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+[O projeto aborda o problema da gestão ineficiente do orçamento pessoal, causada pela falta de monitoramento e análise estruturada das finanças, o que pode resultar em gastos desorganizados, atrasos em pagamentos e risco de endividamento.]
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+[Usuários com baixo conhecimento em educação financeira]
 
 ---
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
+[Lumi – Agente Financeiro Inteligente]
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-[Sua descrição aqui]
+[Consultiva, educativa e confiável]
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+[Acessível, claro e profissional]
 
 ### Exemplos de Linguagem
 - Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
@@ -78,4 +78,10 @@ flowchart TD
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Liste aqui as limitações explícitas do agente]
+[O agente não substitui a orientação de um profissional financeiro, atuando apenas como suporte informativo.
+
+O agente depende da qualidade e disponibilidade dos dados fornecidos para gerar análises e recomendações.
+
+O agente não possui acesso direto a contas bancárias reais, operando apenas com dados simulados ou informados pelo usuário.
+
+O agente não toma decisões financeiras de forma autônoma, cabendo ao usuário a decisão final.
